@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search>
+  <entry>
+    <title>Hello World</title>
+    <url>/2022/08/09/hello-world/</url>
+    <content><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p>
+<span id="more"></span>
+<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p>
+<h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p>
+<h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p>
+<h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>
+]]></content>
+  </entry>
+  <entry>
+    <title>epic客户端下载游戏速度慢且不稳定的解决方法</title>
+    <url>/2022/03/12/01/</url>
+    <content><![CDATA[<h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><p>3月11号，我心血来潮去epic下载荒野大镖客2，想试试魔改的gtx965m能不能玩😏😏然而epic的下载速度奇慢且不稳定😑😑</p>
+<span id="more"></span>
+
+<h1 id="解决方法"><a href="#解决方法" class="headerlink" title="解决方法"></a>解决方法</h1><h2 id="一-、下载解压并打开UsbEAm-Hosts-Editor"><a href="#一-、下载解压并打开UsbEAm-Hosts-Editor" class="headerlink" title="一 、下载解压并打开UsbEAm Hosts Editor"></a>一 、下载解压并打开UsbEAm Hosts Editor</h2><p>网盘下载(无密码): <a href="https://wwi.lanzoui.com/io2rmtsvf8b">https://wwi.lanzoui.com/io2rmtsvf8b</a></p>
+<h2 id="二、应用host"><a href="#二、应用host" class="headerlink" title="二、应用host"></a>二、应用host</h2><ol>
+<li>点击左下角的手柄图标→Epic Games→游戏下载(中国大陆地区)→检测延迟→选择延迟低的→应用选中</li>
+<li>重启epic客户端即可</li>
+</ol>
+<h1 id="相关来源"><a href="#相关来源" class="headerlink" title="相关来源"></a>相关来源</h1><p><a href="https://www.dogfight360.com/blog/475/">UsbEAm Hosts Editor 多平台hosts修改 V3.62 – Dogfight360</a></p>
+]]></content>
+      <tags>
+        <tag>epic</tag>
+      </tags>
+  </entry>
+</search>
